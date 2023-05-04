@@ -1,0 +1,24 @@
+h1 {
+    color:#2c894e;
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px; 
+    padding: 30px;
+
+}
+
+p {
+    color:#014649;
+    font-size: 24px;
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+img{
+    border: 2px solid #004447;
+    border-radius: 7px;
+    width: 600px;
+    height:325px; 
+    margin-left: 255px;  
+}
